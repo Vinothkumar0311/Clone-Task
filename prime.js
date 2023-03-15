@@ -21,3 +21,4 @@ console.log(primeNumber)
 //     return primeNumber.push(num)
 // })
 // console.log(primeNumber)
+ 

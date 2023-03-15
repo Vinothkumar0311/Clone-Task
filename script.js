@@ -24,6 +24,17 @@ let str1 = "External scripts are practical when the same code is used in many di
 console.log(str1.substring(9)) //scripts are practical when the same code is used in many different web pages.
 console.log(str1.substring(9,50)) //scripts are practical when the same code
 
+//function
+
+//lowercase to uppercase convertion using function
+function upperCase(x)
+{
+    return x.toLocaleUpperCase()
+}
+
+let str = "hello world"
+console.log(upperCase(str))
+
 
 
 
